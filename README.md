@@ -4,14 +4,11 @@
 </p>
   <h1>BlackMamba </h1>
   <p>
-    <img alt="Version" src="https://img.shields.io/badge/version-1.0.14-blue.svg?cacheSeconds=2592000&style=for-the-badge" />
-    <img alt="release" src="https://img.shields.io/github/v/release/LasCC/Hack-Tools?color=yellow&style=for-the-badge" />
-    <a href="https://chrome.google.com/webstore/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi?hl=en" target="_blank">
-      <img alt="chrome-extension" src="https://img.shields.io/chrome-web-store/v/cmbndhnoonmghfofefkcccljbkdpamhi?style=for-the-badge" />
-    </a>
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/loseys/BlackMamba/total.svg?style=for-the-badge" />
-    <img alt="commit" src="https://img.shields.io/github/last-commit/LasCC/Hack-Tools?style=for-the-badge" />
-    <img alt="stars" src="https://img.shields.io/github/stars/LasCC/Hack-Tools?style=social" />
+    [![platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux-orange)](https://github.com/loseys/Oblivion/)
+    [![version](https://img.shields.io/badge/version-v1.0.14-orange)](https://github.com/loseys/Oblivion/)
+    [![Python 3.8.6](https://img.shields.io/badge/python-3.8-orange.svg)](https://www.python.org/downloads/release/python-386/)
+    [![Release](https://img.shields.io/badge/Release-beta-orange)](https://github.com/loseys/Oblivion/)
+    [![license](https://img.shields.io/badge/license-MIT-orange)](https://github.com/loseys/Oblivion/)
   </p>
   <p align="center">
     <a href="#the-all-in-one-red-team-browser-extension-for-web-pentesters"><b>Introduction</b></a>
