@@ -2,7 +2,7 @@
   <p align="center">
   <img src="https://i.imgur.com/tGj5RyK.png" width=250 height=250 alt="ST"/>
 </p>
-  <h1>Welcome to HackTools 🛠</h1>
+  <h1>BlackMamba 🐍</h1>
   <p>
     <img alt="Version" src="https://img.shields.io/badge/version-0.3.3-blue.svg?cacheSeconds=2592000&style=for-the-badge" />
     <img alt="release" src="https://img.shields.io/github/v/release/LasCC/Hack-Tools?color=yellow&style=for-the-badge" />
