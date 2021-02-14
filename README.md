@@ -6,9 +6,6 @@
   <p>
     <img alt="Version" src="https://img.shields.io/badge/version-1.0.14-blue.svg?cacheSeconds=2592000&style=for-the-badge" />
     <img alt="release" src="https://img.shields.io/github/v/release/LasCC/Hack-Tools?color=yellow&style=for-the-badge" />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/hacktools" target="_blank">
-      <img alt="mozilla" src="https://img.shields.io/amo/v/hacktools?color=purple&label=mozilla%20addons&logo=mozilla&style=for-the-badge" />
-    </a>
     <a href="https://chrome.google.com/webstore/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi?hl=en" target="_blank">
       <img alt="chrome-extension" src="https://img.shields.io/chrome-web-store/v/cmbndhnoonmghfofefkcccljbkdpamhi?style=for-the-badge" />
     </a>
